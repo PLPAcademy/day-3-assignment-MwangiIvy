@@ -1,0 +1,15 @@
+B) Download the Dart SDK 
+2.D) dart --version
+3.C) Run Flutter Doctor 
+4.C) flutter run 
+#Python Installation
+5.B) Download Python from the official website
+6.B) Install to a custom directory 
+7.D) By checking the Programs and Features in Control Panel
+8.B) pip install python
+9.C) To separate project dependencies and avoid conflicts #MySQL Installation
+10.B) Download MySQL Installer from the official website
+11.D) Custom
+12.A) MySQL Server, MySQL Workbench, and MySQL Shell 
+13.D) To allow multiple users to access MySQL
+14.B) Launch MySQL Workbench and connect to your MySQL Server 
